@@ -12,7 +12,7 @@ Serverless API Gateway Local is a development tool that emulates AWS API Gateway
 
 ## Installation
 
-Run `npm install serverless-api-gateway-local`
+Run `npm i serverless-api-gateway-local-development-package`
 
 ## Required Dependencies
 

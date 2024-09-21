@@ -1,0 +1,22 @@
+{
+  "name": "serverless-api-gateway-local-development-package",
+  "version": "1.0.0",
+  "description": "An npm package that mimics the behavior of AWS API Gateway, Azure API Gateway, or GCP API Gateway locally.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0",
+    "body-parser": "^1.20.3",
+    "chokidar": "^4.0.0",
+    "express": "^4.21.0",
+    "yaml": "^2.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

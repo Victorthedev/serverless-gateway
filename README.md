@@ -79,7 +79,7 @@ exports.handler = async (event) => {
 **Set up the local server**
 Create a server.js file in your project root:
 
-const ServerlessApiGatewayLocal = require('serverless-api-gateway-local');
+const ServerlessApiGatewayLocal = require('serverless-gateway');
 
 const gateway = new ServerlessApiGatewayLocal();
 gateway.start();
